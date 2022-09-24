@@ -1,2 +1,2 @@
 # Bot
-Automatizador de envio de mensagem
+Automatizador de envio de mensagem no Telegram
