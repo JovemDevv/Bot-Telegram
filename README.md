@@ -1,8 +1,4 @@
-Para facilitar a utilização dos bots presentes no mesmo diretório do GitHub, é importante fornecer informações claras sobre cada um deles, juntamente com instruções de como utilizá-los. Aqui está um exemplo de README que você pode adicionar ao diretório do GitHub:
-
----
-
-# Bots do GitHub
+# Bots para telegram
 
 ## Bot de Consulta de CEP
 
@@ -10,7 +6,7 @@ Este bot permite que você consulte informações sobre um CEP específico. Ele 
 
 ### Como usar:
 
-1. Inicie uma conversa com o bot enviando `/start`.
+1. Inicie uma conversa com o bot enviando `/start`, ou qualquer mensagem.
 2. Siga as instruções para enviar um CEP válido.
 3. O bot responderá com as informações do endereço associado ao CEP, se disponível.
 
