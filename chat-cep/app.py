@@ -8,7 +8,7 @@ import json
 load_dotenv()
 
 # Obtém o token do ambiente
-token = os.getenv("TOKEN")
+token = os.getenv("token")
 
 # Inicia o bot
 bot = telebot.TeleBot(token, parse_mode='HTML')
